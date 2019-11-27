@@ -10,4 +10,6 @@ target 'Example' do
   pod 'MBProgressHUD'
   pod 'CFDanmaku', '~> 0.0.1'
   pod 'Bugly'
+  pod 'Reveal-SDK', :configurations => ['Debug']
+  
 end
